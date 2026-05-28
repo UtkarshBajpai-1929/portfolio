@@ -89,6 +89,25 @@ export const portfolio = {
     },
   ],
   projects: [
+       {
+      title: 'EduBridge',
+      tagline: 'Scalable Digital School Learning Platform',
+      description:
+        'A scalable school learning platform designed to enhance digital education experiences through video-based learning and doubt resolution systems. The architecture is designed to support future scalability with attendance tracking, academic achievements, notices, and school management functionality.',
+      features: [
+        'Video learning platform',
+        'Doubt resolution system',
+        'Scalable architecture',
+        'Expandable academic modules',
+        'Student-centric learning experience',
+      ],
+      techStack: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Redux Toolkit', 'Tailwind CSS', 'Cloudinary'],
+      highlight: 'Scalability thinking and product vision.',
+      links: {
+        github: 'https://github.com/UtkarshBajpai-1929/EduBridge',
+        live: 'https://edubridge-lemon-iota.vercel.app/',
+      },
+    },
     {
       title: 'AI Based Study Planner',
       tagline: 'AI Powered Productivity & Study Planning Platform',
@@ -106,25 +125,6 @@ export const portfolio = {
       links: {
         github: 'https://github.com/UtkarshBajpai-1929/study-planner',
         live: 'https://study-planner-khaki-zeta.vercel.app/',
-      },
-    },
-    {
-      title: 'EduBridge',
-      tagline: 'Scalable Digital School Learning Platform',
-      description:
-        'A scalable school learning platform designed to enhance digital education experiences through video-based learning and doubt resolution systems. The architecture is designed to support future scalability with attendance tracking, academic achievements, notices, and school management functionality.',
-      features: [
-        'Video learning platform',
-        'Doubt resolution system',
-        'Scalable architecture',
-        'Expandable academic modules',
-        'Student-centric learning experience',
-      ],
-      techStack: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Redux Toolkit', 'Tailwind CSS', 'Cloudinary'],
-      highlight: 'Scalability thinking and product vision.',
-      links: {
-        github: 'https://github.com/UtkarshBajpai-1929/EduBridge',
-        live: 'https://edubridge-lemon-iota.vercel.app/',
       },
     },
     {
