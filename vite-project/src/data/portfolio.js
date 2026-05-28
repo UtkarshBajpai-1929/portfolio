@@ -46,17 +46,17 @@ export const portfolio = {
     {
       category: 'Frontend Development',
       icon: 'PanelsTopLeft',
-      items: ['HTML5', 'CSS3', 'JavaScript', 'React.js', 'Redux Toolkit', 'Tailwind CSS', 'Bootstrap'],
+      items: ['HTML5', 'CSS3', 'JavaScript', 'React.js','Next.js', 'Redux Toolkit', 'Tailwind CSS', 'Bootstrap'],
     },
     {
       category: 'Backend Development',
       icon: 'ServerCog',
-      items: ['Node.js', 'Express.js', 'REST APIs', 'JWT Authentication', 'Authentication & Authorization', 'Role Based Access Control'],
+      items: ['Node.js', 'Express.js','Next.js', 'REST APIs', 'JWT Authentication', 'Authentication & Authorization', 'Role Based Access Control'],
     },
     {
       category: 'Database & Cloud',
       icon: 'Database',
-      items: ['MongoDB', 'Cloudinary'],
+      items: ['MongoDB', 'Cloudinary', 'PostgreSQL', 'Prisma ORM', 'Mongoose'],
     },
     {
       category: 'File Uploads',
