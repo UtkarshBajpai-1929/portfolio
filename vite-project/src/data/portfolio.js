@@ -7,7 +7,7 @@ export const portfolio = {
   description:
     'I am a Civil Engineering student at IIT Dhanbad with a strong interest in software development, scalable systems, and problem-solving. I enjoy building full-stack applications, exploring modern technologies, and continuously improving my engineering and development skills.',
   profileImage: '/utkarsh-profile.jpeg',
-  resume: '/Utkarsh_Bajpai_Resume.pdf',
+  resume: '/Utkarsh_Bajpai_Resume2.pdf',
   socials: {
     github: 'https://github.com/UtkarshBajpai-1929',
     linkedin: '',
@@ -108,6 +108,26 @@ export const portfolio = {
         live: 'https://edubridge-lemon-iota.vercel.app/',
       },
     },
+           {
+      title: 'Pathwise',
+      tagline: 'A platform for student moving to college to help in decision making',
+      description:
+        'A scalable platform which is designed to help to student moving from school to college. They can compare colleges based on rating, fees, location and placement. Students can ask questions and view discussion.',
+      features: [
+        'College search feature',
+        'College Listed IITs, NITs, BITS and other private college',
+        'College comparision side by side',
+        'Helpful in clearing confusion in decision making',
+        'Q/A and Discussion section for helping each other',
+      ],
+      techStack: ['Typescript','Next.js', 'Node.js','Postgre SQL','Prisma ORM', 'Redux Toolkit', 'Tailwind CSS'],
+      highlight: 'Practical problem solving and helping students with tech.',
+      links: {
+        github: 'https://github.com/UtkarshBajpai-1929/Pathwise',
+        live: 'https://pathwise-olive.vercel.app/',
+      },
+    },
+
     {
       title: 'AI Based Study Planner',
       tagline: 'AI Powered Productivity & Study Planning Platform',
