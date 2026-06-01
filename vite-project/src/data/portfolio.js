@@ -159,7 +159,7 @@ export const portfolio = {
         'Civil engineering utility tools',
         'Clean and intuitive interface',
       ],
-      techStack: ['React.js', 'JavaScript', 'HTML', 'CSS', 'Tailwind CSS'],
+      techStack: ['React.js', 'JavaScript', 'HTML', 'CSS', 'Tailwind CSS, React-Recharts'],
       highlight: 'Domain-driven problem solving by combining civil engineering knowledge with software development.',
       links: {
         github: 'https://github.com/UtkarshBajpai-1929/mix-designer',
