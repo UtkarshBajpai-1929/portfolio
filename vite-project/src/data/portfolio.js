@@ -12,7 +12,7 @@ export const portfolio = {
     github: 'https://github.com/UtkarshBajpai-1929',
     linkedin: '',
     email: 'utkarshbajpai632@gmail.com',
-    resume: '/Utkarsh_Bajpai_Resume.pdf',
+    resume: '/Utkarsh_Bajpai_Resume2.pdf',
   },
   navItems: [
     { id: 'home', label: 'Home' },
@@ -108,6 +108,34 @@ export const portfolio = {
         live: 'https://edubridge-lemon-iota.vercel.app/',
       },
     },
+      {
+  title: 'TalDash',
+  tagline: 'Scalable salary intelligence and company insights platform across India',
+  description:
+    'A modern and scalable company intelligence platform designed to help users explore salary insights, workplace culture, employee experiences, interview preparation, and career growth opportunities across companies in India. The architecture is built to support future scalability with company comparisons, compensation analytics, employee reviews, hiring trends, and AI-driven career insights.',
+  features: [
+    'Salary intelligence platform',
+    'Company insights and analytics',
+    'Employee reviews and workplace culture',
+    'Interview preparation resources',
+    'Company comparison system',
+    'Scalable architecture',
+    'Career growth insights',
+  ],
+  techStack: [
+    'Next.js',
+    'TypeScript',
+    'Node.js',
+    'PostgreSQL',
+    'Prisma',
+    'Tailwind CSS',
+  ],
+  highlight: 'Product thinking, scalable architecture, Search Engine Optimized, ISR revalidation, Lighhouse LCP optimisation.',
+  links: {
+    github: 'https://github.com/UtkarshBajpai-1929/TalentDash.git',
+    live: 'https://talent-dash-sigma-puce.vercel.app/',
+  },
+},
            {
       title: 'Pathwise',
       tagline: 'A platform for student moving to college to help in decision making',
